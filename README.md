@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank">Johnny Araya</a>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank"><img src="https://cdn.jsdeliver.net/npm/simple-icon@3.0.1/icons/linkedin.svg" hight="30" width=:30></a>
+  <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank"><img src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hight="30" width=:30></a>
   </p>
