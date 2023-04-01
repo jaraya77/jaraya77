@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<hi align="center">Hi, I am Johnny Araya 🙋‍♂️<\h1>
+<hi align="center">Hi, I am Johnny Araya 🙋‍♂️
 
 - 👨‍🎓 I am a recent graduate with a Bachelor's of Science in Computer Science and a Minor in Webmasters
 - 🧠 I am always open to learning new thing
