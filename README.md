@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I am a recent graduate with a Bachelor's of Science in Computer Science and a Minor in Webmasters
 - 🧠 I am always open to learning new thing
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/johnnyaraya/" target=_blank">Johnny Araya</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank">Johnny Araya</a>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank"><img src="https://cdn.jsdeliver.net/npm/simple-icon@2.0.1/icons/linkedin.svg" hight="30" width=:30></a>
