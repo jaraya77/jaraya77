@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 
 <hi align="center">Hi, I am Johnny Araya 🙋‍♂️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=1EF7F5&width=435&lines=Welcome+to+my+profile!;I'm+Johnny+;Software+Developer+)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=1EF7F5&width=435&lines=Welcome+to+my+profile!;I'm+Johnny+;Software+Developer+" alt="Typing SVG" /></a>
+
+
+
+
 - 👨‍🎓 I am a recent graduate with a Bachelor's of Science in Computer Science and a Minor in Webmasters
 - 💼 Currently looking for an Entry-Level Software Developer job.
 - 🧠 I am always open to learning new thing
