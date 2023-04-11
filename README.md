@@ -32,6 +32,8 @@ Here are some ideas to get you started:
       <a href = "https://www.linkedin.com/in/johnnyaraya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
       <a href = "https://www.facebook.com/johnny.araya.961"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
       <a href = "https://www.instagram.com/jaraya77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        href="johnnyaraya77@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1024px-Gmail_Icon_%282013-2020%29.svg.png?20220204194709"  height="30"
+            width="40" align="center" alt="Md Rashid Ali"></a>
       </p>
 </div>
   
