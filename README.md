@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <hi align="center">Hi, I am Johnny Araya 🙋‍♂️
 
 - 👨‍🎓 I am a recent graduate with a Bachelor's of Science in Computer Science and a Minor in Webmasters
+- 💼 Currently looking for an Entry-Level Software Developer job.
 - 🧠 I am always open to learning new thing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank">Johnny Araya</a>
 
