@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       <a href = "https://www.linkedin.com/in/johnnyaraya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
       <a href = "https://www.facebook.com/johnny.araya.961"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
       <a href = "https://www.instagram.com/jaraya77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-        <a href="johnnyaraya77@gmail.com"><img src"https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+        <a href="[johnnyaraya77@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsLVLvBDwPhZxgRBZTBvcKtnrgJnbhRSGQfTkrJbTTKTqWKNtnLXKSrZRtJfvvZpPShLslPQ)"><img src"https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </div>
   
 <!--
