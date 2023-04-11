@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 - 🧠 I am always open to learning new thing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank">Johnny Araya</a>
 
+  <div align = 'center'>
+      <h3>Connect with me:</h3>
+      <p align="center">
+      <a href = "https://www.linkedin.com/in/johnnyaraya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+      <a href = "https://www.facebook.com/johnny.araya.961"><img src="https://img.icons8.com/icon/118504/facebook"/></a>
+      <a href = "https://www.instagram.com/jaraya77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+      </p>
+</div>
+  
 <!--
   <p align='center'>
   <a href="https://www.linkedin.com/in/johnnyaraya/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/" hight="30" width=:30></a>
