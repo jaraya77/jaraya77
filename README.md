@@ -27,7 +27,7 @@ Here are some ideas to get you started:
       <h3>Connect with me:</h3>
       <p align="center">
       <a href = "https://www.linkedin.com/in/johnnyaraya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-      <a href = "https://www.facebook.com/johnny.araya.961"><img src="https://img.icons8.com/icon/118504/facebook"/></a>
+      <a href = "https://www.facebook.com/johnny.araya.961"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
       <a href = "https://www.instagram.com/jaraya77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
       </p>
 </div>
